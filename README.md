@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @createdshots
-- 👀 I’m interested in Music, Cybersecurity, and cool portfolios.
-- 🌱 I’m currently learning Cybersecurity and Networking
+- 👀 I’m interested in Music, Cybersecurity and Networking!
+- 🏢 I'm employed as an Infastructure Technician at a leading MSP in the UK
+- 🌱 I’m currently studying Cybersecurity and Networking
 - 📫 How to reach me created.#5658 on discord, or @createdshots on twitter
