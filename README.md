@@ -2,4 +2,4 @@
 - 👀 I’m interested in Music, Cybersecurity and Networking!
 - 🏢 I'm employed as an Infastructure Technician at a leading MSP in the UK
 - 🌱 I’m currently studying Cybersecurity and Networking
-- 📫 How to reach me created.#5658 on discord, or @createdshots on twitter
+- 📫 How to reach me: created. on discord, or @createdshots on twitter
