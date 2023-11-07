@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @createdshots, or Jack<br>👀 I’m interested in Music, PowerShell, and learning more about other languages.<br>🏢 I'm employed as an Infastructure Technician at a leading MSP in the UK!<br>🌱 I’m currently studying Cybersecurity and Networking<br>📫 You can reach me at @created. on discord or @CreatedShots on X
+👋 Hi, I’m @createdshots, or Jack<br>👀 I’m interested in Music, PowerShell, and learning more about other languages.<br>🏢 I'm currently employed at a leading MSP in the UK!<br>🌱 I’m currently studying Cybersecurity and Networking<br>📫 You can reach me at @created. on discord or @CreatedShots on X
 
 
 ## 🌐 Socials:
