@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @createdshots, or Jack<br>👀 I’m interested in Music, PowerShell, and learning more about other languages.<br>🌱 I’m currently studying Cybersecurity and Networking at Bournemouth University<br>📫 You can reach me at @created. on discord or @CreatedShots on Twitter<br>🔨 I'm currently working on a couple of personal projects and a PowerShell project to reduce the amount of manual interaction with Active Directory!
+👋 Hi, I’m @createdshots, or Jack<br>👀 I’m interested in Music, PowerShell, and learning more about other languages.<br>🌱 I’m currently studying Cybersecurity and Networking at Bournemouth University<br>📫 You can reach me at @created. on discord or @CreatedShots on Twitter
 
 
 ## 🌐 Socials:
