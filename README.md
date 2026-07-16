@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @createdshots, or Jack<br>👀 I’m interested in Music, PowerShell, and learning more about other languages.<br>🌱 I’m currently working on Emergency Dispatch Simulator on ROBLOX and some FiveM projects!<br>📫 You can reach me at @created. on discord or @CreatedShots on Twitter
+👋 Hi, I’m @createdshots, or Jack<br>📫 You can reach me at @created. on discord or @CreatedShots on Twitter
 
 
 ## 🌐 Socials:
